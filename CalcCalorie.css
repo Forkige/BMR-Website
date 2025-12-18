@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+    background-color: #F6F0D7;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;    
+    border-bottom: 1%;
+    background-color: #C5D89D;
+    text-align: center;
+}
+
+.Hlinks{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Hlinks > div{
+   padding-left: 10px;
+}
+
+.BMRTitle{
+    text-align: center;
+}
+
+.BMR_Calculator{
+    border: 3px solid #89986D;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 10px;
+
+}
+
+.Border{
+    border-color: black;
+    border-radius: 30px;
+}
